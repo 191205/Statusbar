@@ -53,6 +53,8 @@ getAppIcon: (app) ->
         return "<span class='icon'></span>"
     if app == 'microsoft word'
         return "<span class='icon'>&nbsp</span>"
+    if app == 'typora'
+        return "<span class='icon'>&nbsp</span>"
     if app == 'skype'
         return "<span class='icon'></span>"
     if app == 'preview'
