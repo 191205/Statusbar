@@ -1,3 +1,12 @@
+# FORK
+This fork is a slightly personalised mixture between the original repo and [apierz/chunkbar.widget](https://github.com/apierz/chunkbar.widget), which reimplements the __Mode__ widget to handle more informations from __chunkwm__ and __khd__, it's best is if you use modal commands for khd.
+
+* window status (float vs tiled)
+* khd modal status (default, space, tree, swap)
+
+![img](./screenshot.png)
+
+# Original README.md
 Statusbar for use with chunkwm. Screenshot:
 
 ![img](https://user-images.githubusercontent.com/6175959/35296227-b4c0d428-007b-11e8-804c-8a4244a547f2.png)

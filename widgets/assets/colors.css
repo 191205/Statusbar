@@ -1,6 +1,6 @@
 table, span {
     color: #876769;
-    font: 12px "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font: 12px "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif, "SFMono-Medium";
     font-weight: 600;
     -webkit-font-smoothing: antialiased;
 }
@@ -67,6 +67,17 @@ table, span {
     color: #2aa1ae;
 }
 
+.bicon {
+    position: relative;
+    top: 1px;
+    font: 14px FontAwesome;
+}
+
+.ricon {
+    position: relative;
+    top: 1px;
+    font: 14px FontAwesome;
+}
 .sicon {
     position: relative;
     font: 10px FontAwesome;

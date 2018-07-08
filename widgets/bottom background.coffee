@@ -8,7 +8,7 @@ style: """
   width: 99.5%;
   bottom: 3px;
   right: 2px;
-  left 4px;
+  left 1050px;
   height: 24px
   box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.40);
   z-index: -1
